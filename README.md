@@ -1,4 +1,6 @@
+
 Password Strength Checker
+
 A simple, single‑file Python tool that evaluates password strength and provides actionable feedback. Designed for local, ethical use with no external dependencies.
 
 Overview
